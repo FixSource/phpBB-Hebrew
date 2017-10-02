@@ -60,12 +60,12 @@ $lang = array_merge($lang, array(
 		1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
 		2	=> 'Last edited by %2$s on %3$s, edited %1$d times in total.',
 	),
-	'EMAIL_TOPIC'			=> 'Email topic',
+	'EMAIL_TOPIC'			=> 'שלח נושא בדוא"ל',
 	'ERROR_NO_ATTACHMENT'	=> 'The selected attachment does not exist anymore.',
 
 	'FILE_NOT_FOUND_404'	=> 'The file <strong>%s</strong> does not exist.',
 	'FORK_TOPIC'			=> 'Copy topic',
-	'FULL_EDITOR'			=> 'Full Editor &amp; Preview',
+	'FULL_EDITOR'			=> 'עורך מלא &amp; תצוגה מקדימה',
 
 	'LINKAGE_FORBIDDEN'		=> 'You are not authorised to view, download or link from/to this site.',
 	'LOGIN_NOTIFY_TOPIC'	=> 'You have been notified about this topic, please login to view it.',
@@ -93,11 +93,11 @@ $lang = array_merge($lang, array(
 	'POLL_RUN_TILL'			=> 'Poll runs till %s',
 	'POLL_VOTED_OPTION'		=> 'You voted for this option',
 	'POST_DELETED_RESTORE'	=> 'This post has been deleted. It can be restored.',
-	'PRINT_TOPIC'			=> 'Print view',
+	'PRINT_TOPIC'			=> 'הדפס תצוגה',
 
 	'QUICK_MOD'				=> 'Quick-mod tools',
-	'QUICKREPLY'			=> 'Quick Reply',
-	'QUOTE'					=> 'Quote',
+	'QUICKREPLY'			=> 'תגובה מהירה',
+	'QUOTE'					=> 'ציטוט',
 
 	'REPLY_TO_TOPIC'		=> 'Reply to topic',
 	'RESTORE'				=> 'Restore',
@@ -109,17 +109,17 @@ $lang = array_merge($lang, array(
 	'TOPIC_TOOLS'			=> 'Topic tools',
 	'TOTAL_VOTES'			=> 'Total votes',
 
-	'UNLOCK_TOPIC'			=> 'Unlock topic',
+	'UNLOCK_TOPIC'			=> 'ביטול נעילת הנושא',
 
 	'VIEW_INFO'				=> 'Post details',
 	'VIEW_NEXT_TOPIC'		=> 'Next topic',
 	'VIEW_PREVIOUS_TOPIC'	=> 'Previous topic',
 	'VIEW_RESULTS'			=> 'View results',
 	'VIEW_TOPIC_POSTS'		=> array(
-		1	=> '%d post',
-		2	=> '%d posts',
+		1	=> '%d הודעה',
+		2	=> '%d הודעות',
 	),
-	'VIEW_UNREAD_POST'		=> 'First unread post',
+	'VIEW_UNREAD_POST'		=> 'הודעה ראשונה שלא נקראה',
 	'VOTE_SUBMITTED'		=> 'Your vote has been cast.',
 	'VOTE_CONVERTED'		=> 'Changing votes is not supported for converted polls.',
 

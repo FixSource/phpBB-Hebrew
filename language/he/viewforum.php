@@ -66,7 +66,7 @@ $lang = array_merge($lang, array(
 
 	'VIEW_FORUM'			=> 'צפה בפורום',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d נושא',
+		2	=> '%d נושאים',
 	),
 ));
