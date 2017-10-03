@@ -51,12 +51,12 @@ $lang = array_merge($lang, array(
 		2	=> 'Search found more than %d matches',
 	),
 
-	'GLOBAL'				=> 'Global announcement',
+	'GLOBAL'				=> 'הכרזה כללית ',
 
 	'IGNORED_TERMS'			=> 'ignored',
 	'IGNORED_TERMS_EXPLAIN'	=> 'The following words in your search query were ignored because they are too common words: <strong>%s</strong>.',
 
-	'JUMP_TO_POST'			=> 'Jump to post',
+	'JUMP_TO_POST'			=> 'עבור להודעה',
 
 	'LOGIN_EXPLAIN_EGOSEARCH'	=> 'The board requires you to be registered and logged in to view your own posts.',
 	'LOGIN_EXPLAIN_UNREADSEARCH'=> 'The board requires you to be registered and logged in to view your unread posts.',
@@ -87,7 +87,7 @@ $lang = array_merge($lang, array(
 	'RESULT_DAYS'			=> 'Limit results to previous',
 	'RESULT_SORT'			=> 'Sort results by',
 	'RETURN_FIRST'			=> 'Return first',
-	'GO_TO_SEARCH_ADV'	=> 'Go to advanced search',
+	'GO_TO_SEARCH_ADV'	=> 'עבור לחיפוש מתקדם',
 
 	'SEARCHED_FOR'				=> 'Search term used',
 	'SEARCHED_TOPIC'			=> 'Searched topic',
@@ -110,10 +110,10 @@ $lang = array_merge($lang, array(
 	'SEARCH_WITHIN'				=> 'Search within',
 	'SORT_ASCENDING'			=> 'Ascending',
 	'SORT_AUTHOR'				=> 'Author',
-	'SORT_DESCENDING'			=> 'Descending',
+	'SORT_DESCENDING'			=> 'יורד',
 	'SORT_FORUM'				=> 'Forum',
 	'SORT_POST_SUBJECT'			=> 'Post subject',
-	'SORT_TIME'					=> 'Post time',
+	'SORT_TIME'					=> 'זמן פרסום',
 	'SPHINX_SEARCH_FAILED'		=> 'Search failed: %s',
 	'SPHINX_SEARCH_FAILED_LOG'	=> 'Sorry, search could not be performed. More information about this failure has been logged in the error log.',
 

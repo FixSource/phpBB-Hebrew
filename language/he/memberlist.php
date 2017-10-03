@@ -93,8 +93,8 @@ $lang = array_merge($lang, array(
 	'LAST_ACTIVE'				=> 'פעיל לאחרונה',
 	'LESS_THAN'					=> 'פחות מ',
 	'LIST_USERS'				=> array(
-		1	=> '%d user',
-		2	=> '%d users',
+		1	=> '%d משתמש',
+		2	=> '%d משתמשים',
 	),
 	'LOGIN_EXPLAIN_TEAM'		=> 'The board requires you to be registered and logged in to view the team listing.',
 	'LOGIN_EXPLAIN_MEMBERLIST'	=> 'The board requires you to be registered and logged in to access the memberlist.',
@@ -109,8 +109,8 @@ $lang = array_merge($lang, array(
 	'NO_EMAIL'				=> 'You are not permitted to send email to this user.',
 	'NO_VIEW_USERS'			=> 'You are not authorised to view the member list or profiles.',
 
-	'ORDER'					=> 'Order',
-	'OTHER'					=> 'Other',
+	'ORDER'					=> 'אחר',
+	'OTHER'					=> 'אחר',
 
 	'POST_IP'				=> 'Posted from IP/domain',
 
@@ -135,7 +135,7 @@ $lang = array_merge($lang, array(
 	'USERNAME_BEGINS_WITH'	=> 'Username begins with',
 	'USER_ADMIN'			=> 'Administer user',
 	'USER_BAN'				=> 'Banning',
-	'USER_FORUM'			=> 'User statistics',
+	'USER_FORUM'			=> 'סטיסטיקת המשתמש',
 	'USER_LAST_REMINDED'	=> array(
 		0		=> 'No reminder sent at this time',
 		1		=> '%1$d reminder sent<br />» %2$s',
@@ -145,7 +145,7 @@ $lang = array_merge($lang, array(
 	'USER_PRESENCE'			=> 'Board presence',
 	'USERS_PER_PAGE'		=> 'Users per page',
 
-	'VIEWING_PROFILE'		=> 'Viewing profile - %s',
+	'VIEWING_PROFILE'		=> 'צופה בפרופיל - %s',
 	'VIEW_FACEBOOK_PROFILE'	=> 'View Facebook Profile',
 	'VIEW_SKYPE_PROFILE'	=> 'View Skype Profile',
 	'VIEW_TWITTER_PROFILE'	=> 'View Twitter Profile',
