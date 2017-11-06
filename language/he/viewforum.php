@@ -47,7 +47,7 @@ $lang = array_merge($lang, array(
 
 	'LOGIN_NOTIFY_FORUM'	=> 'קיבלת התראה אודות פורום זה, אנא התחבר על מנת לצפות בו.',
 
-	'MARK_TOPICS_READ'		=> 'סמן נושאים כנקראו',
+	'MARK_TOPICS_READ'		=> 'סימון נושאים כנקראו',
 
 	'NEW_POSTS_HOT'			=> 'יש הודעות חדשות [ הודעות חמות ]',	// Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'יש הודעות חדשות [ הודעות נעולות ]',	// Not used anymore
@@ -64,7 +64,7 @@ $lang = array_merge($lang, array(
 	'UNREAD_POSTS_HOT'		=> 'הודעות שלא נקראו [ הודעות חמות ]',
 	'UNREAD_POSTS_LOCKED'	=> 'הודעות שלא נקראו [ הודעות נעולות ]',
 
-	'VIEW_FORUM'			=> 'צפה בפורום',
+	'VIEW_FORUM'			=> 'צפיה בפורום',
 	'VIEW_FORUM_TOPICS'		=> array(
 		1	=> '%d נושא',
 		2	=> '%d נושאים',
